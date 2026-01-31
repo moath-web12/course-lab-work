@@ -1,2 +1,5 @@
-# course-lab-work
-Repository for tracking progress in Advanced Internet Technology - Spring 2026.
+| Week | Technology |
+|------|-----------|
+| 1    | Laravel   |
+| 2    | Next.js   |
+| 3    | Flutter   |
